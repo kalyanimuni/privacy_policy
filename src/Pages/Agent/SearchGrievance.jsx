@@ -62,7 +62,7 @@ const SearchGrievance = () => {
                       <input
                         type="text"
                         className="form-control"
-                        placeholder="Enter Ticket Number"
+                        placeholder="Enter Grievance Number"
                         value={uid}
                         onChange={(e) => setUid(e.target.value)}
                         required
