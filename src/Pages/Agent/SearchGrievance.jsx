@@ -54,7 +54,7 @@ const SearchGrievance = () => {
               <div className="search_main">
                 <div className="search_card">
                   <div className="search_card_title">
-                    <h2>Search Your Ticket</h2>
+                    <h2>Search Your Grievance</h2>
                   </div>
                   <form onSubmit={handleFormSubmit}>
                     <div className="form-group search_form pb-2">
